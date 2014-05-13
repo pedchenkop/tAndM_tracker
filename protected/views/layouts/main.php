@@ -62,7 +62,7 @@
 	<div class="clear"></div>
 
 	<div id="footer">
-		Copyright &copy; <?php echo date('Y'); ?> by TandM Studio<br/>
+		Copyright &copy; <?php echo date('Y'); ?> TandM Studio<br/>
 		All Rights Reserved.<br/>
 		<?php echo Yii::powered(); ?>
 	</div><!-- footer -->
