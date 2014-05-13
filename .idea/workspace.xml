@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bd0d7684-0c95-4c35-96ba-649a157752e6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/layouts/main.php" afterPath="$PROJECT_DIR$/protected/views/layouts/main.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tAndM_tracker.iws" />
@@ -29,7 +30,7 @@
       <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="25" selection-start="2688" selection-end="2688" vertical-scroll-proportion="-14.076923" vertical-offset="773" max-vertical-offset="1343">
+            <state line="64" column="65" selection-start="2599" selection-end="2599" vertical-scroll-proportion="-12.115385" vertical-offset="773" max-vertical-offset="1343">
               <folding />
             </state>
           </provider>
@@ -38,7 +39,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="214" column="9" selection-start="2634" selection-end="2634" vertical-scroll-proportion="0.8045977" vertical-offset="3148" max-vertical-offset="3791">
+            <state line="219" column="13" selection-start="2672" selection-end="2672" vertical-scroll-proportion="0.9195402" vertical-offset="3163" max-vertical-offset="3825">
               <folding />
             </state>
           </provider>
@@ -270,14 +271,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="25" selection-start="2688" selection-end="2688" vertical-scroll-proportion="-14.076923" vertical-offset="773" max-vertical-offset="1343">
+        <state line="64" column="65" selection-start="2599" selection-end="2599" vertical-scroll-proportion="-12.115385" vertical-offset="773" max-vertical-offset="1343">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="214" column="9" selection-start="2634" selection-end="2634" vertical-scroll-proportion="0.8045977" vertical-offset="3148" max-vertical-offset="3791">
+        <state line="219" column="13" selection-start="2672" selection-end="2672" vertical-scroll-proportion="0.9195402" vertical-offset="3163" max-vertical-offset="3825">
           <folding />
         </state>
       </provider>
